@@ -5,7 +5,9 @@ A RESTful service which calculates and returns all the prime numbers up to and i
 
 ---
 ## Description
+
 ###Input Parameters
+
 **Initial** : initial - The application returns all prime numbers up to and including the number provided.  
 
 **Strategy** : strategy - This is an optional parameter which is defaulted to "simple1" when not provided.
