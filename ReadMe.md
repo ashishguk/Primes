@@ -7,7 +7,7 @@ A RESTful service which calculates and returns all the prime numbers up to and i
 ## Description
   
   
-###Input Parameters  
+**Input Parameters**  
 
 
 **Initial** : initial - The application returns all prime numbers up to and including the number provided.  
@@ -15,7 +15,7 @@ A RESTful service which calculates and returns all the prime numbers up to and i
 **Strategy** : strategy - This is an optional parameter which is defaulted to "simple1" when not provided.
 Different options for strategy parameter are : 	"simple1" , "simple2" and "sundaram".  
 
-###Sample Calls
+**Sample Calls**
 
 **Sample REST call 1**: http://localhost:8080/primes/10
 
